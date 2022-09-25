@@ -41,8 +41,8 @@ const Credit = props => {
                     <h2 className="main-color">UT Verse</h2>
                 </div>
                 <div className="btns m-t-4">
-                    <Button className="btn-main">GET STARTED</Button>
-                    <Button className="btn-second">EXPLORE</Button>
+                    <Button className="btn-main">SIGN IN</Button>
+                    <Button className="btn-second">REGISTER</Button>
                 </div>
             </div>
         </div>
